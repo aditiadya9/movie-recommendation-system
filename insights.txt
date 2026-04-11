@@ -1,0 +1,11 @@
+Insights:
+
+• Genre plays a key role in determining movie recommendations  
+• Action and Drama categories have the highest number of movies in the dataset  
+• Higher-rated movies are prioritized to improve recommendation quality  
+• Users tend to prefer recommendations within familiar genres  
+
+Conclusion:
+
+This project demonstrates how simple filtering techniques can be used to build a basic recommendation system.  
+In real-world applications, more advanced techniques like collaborative filtering and machine learning models can be used to improve accuracy and personalization.

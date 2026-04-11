@@ -1,0 +1,43 @@
+movie,genre,rating
+Avengers,Action,8.5
+Iron Man,Action,8.0
+Thor,Action,7.8
+Batman,Action,8.2
+Superman,Action,7.5
+John Wick,Action,8.4
+Mad Max: Fury Road,Action,8.1
+KGF,Action,8.3
+Pathaan,Action,6.5
+
+Inception,Sci-Fi,8.8
+Interstellar,Sci-Fi,8.6
+The Matrix,Sci-Fi,8.7
+Tenet,Sci-Fi,7.5
+Gravity,Sci-Fi,7.7
+Avatar,Sci-Fi,7.9
+
+Titanic,Romance,7.8
+The Notebook,Romance,7.9
+La La Land,Romance,8.0
+Before Sunrise,Romance,8.1
+Jab We Met,Romance,8.0
+Yeh Jawaani Hai Deewani,Romance,7.6
+
+3 Idiots,Drama,8.4
+Dangal,Drama,8.5
+Zindagi Na Milegi Dobara,Drama,8.2
+The Pursuit of Happyness,Drama,8.0
+Forrest Gump,Drama,8.8
+Taare Zameen Par,Drama,8.3
+
+Your Name,Anime,8.4
+Spirited Away,Anime,8.6
+Demon Slayer: Mugen Train,Anime,8.3
+
+The Conjuring,Horror,7.5
+Insidious,Horror,6.8
+It,Horror,7.3
+
+The Hangover,Comedy,7.7
+Hera Pheri,Comedy,8.2
+Welcome,Comedy,7.0
