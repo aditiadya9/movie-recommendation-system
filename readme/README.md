@@ -90,4 +90,4 @@ You selected: Inception
 • Gravity ⭐ 7.7
 
 ## 📷 Demo
-![Demo](outputs/demo.png)
+![Demo](output/demo.png)
