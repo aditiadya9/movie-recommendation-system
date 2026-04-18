@@ -1,0 +1,7 @@
+Key Insights:
+
+- Using multiple features (genre, rating, year, duration) significantly improves recommendation accuracy compared to single-feature filtering.  
+- Feature normalization ensures that no single attribute dominates the similarity calculation.  
+- Cosine similarity effectively identifies movies with similar characteristics, enabling personalized recommendations.  
+- Content-based filtering works well for item similarity but does not capture user preferences directly.  
+- Flexible search (partial matching) enhances usability and makes the system more user-friendly.  
