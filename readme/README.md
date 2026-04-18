@@ -75,3 +75,19 @@ Movie-Recommendation/
 
 ## ✨ Author Note
 This project was developed as part of my learning journey in Data Science and Machine Learning, focusing on building practical and scalable systems.
+
+## 📌 Sample Output
+
+=== Movie Recommendation System ===
+
+You selected: Inception
+
+🔥 Top 5 Recommendations:
+• Interstellar ⭐ 8.6
+• The Matrix ⭐ 8.7
+• Tenet ⭐ 7.5
+• Avatar ⭐ 7.9
+• Gravity ⭐ 7.7
+
+## 📷 Demo
+![Demo](outputs/demo.png)
